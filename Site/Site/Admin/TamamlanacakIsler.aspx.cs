@@ -57,6 +57,11 @@ namespace Site.Admin
                 db.kapat();
             }
         }
+
+        protected void DataList2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     
     
     

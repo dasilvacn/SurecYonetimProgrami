@@ -43,19 +43,19 @@ namespace Site
 
         protected void BtnPersonelGiris_Click(object sender, EventArgs e)
         {
-            SqlCommand cm = new SqlCommand("SP_PersonelGiris", db.baglan());
-            cm.CommandType = CommandType.StoredProcedure;
-            cm.Parameters.Add("@kuladi", SqlDbType.NVarChar, 50).Value = txtAdii.Text.Trim();
-            cm.Parameters.Add("@sifre", SqlDbType.NVarChar, 50).Value = db.MD5Sifrele(txtSifree.Text.Trim());
-            SqlDataReader rd = cm.ExecuteReader();
+            SqlCommand cmm = new SqlCommand("SP_PersonelGiris", db.baglan());
+            cmm.CommandType = CommandType.StoredProcedure;
+            cmm.Parameters.Add("@kuladi", SqlDbType.NVarChar, 50).Value = txtAdii.Text.Trim();
+            cmm.Parameters.Add("@sifre", SqlDbType.NVarChar, 50).Value = db.MD5Sifrele(txtSifree.Text.Trim());
+            SqlDataReader rdd = cmm.ExecuteReader();
 
-            if (rd.Read())
+            if (rdd.Read())
             {
 
                 // session olayları
-                Session["id"] = rd["id"].ToString();
-                Session["adi"] = rd["adi"].ToString();
-                Session["soyadi"] = rd["soyadi"].ToString();
+                Session["id"] = rdd["id"].ToString();
+                Session["adi"] = rdd["adi"].ToString();
+                Session["soyadi"] = rdd["soyadi"].ToString();
                 db.kapat();
                 // sayfa yönlendirliyor
                 Response.Redirect("~/Personel/Home.aspx", true);

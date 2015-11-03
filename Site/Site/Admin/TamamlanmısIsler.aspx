@@ -12,7 +12,7 @@
 
 
     <p>
-        <asp:DataList ID="DataList1" runat="server">
+        <asp:DataList ID="DataList1" runat="server" OnSelectedIndexChanged="DataList1_SelectedIndexChanged">
         <EditItemStyle BackColor="#CCCCCC" />
         <ItemStyle BackColor="#EAEAFF" HorizontalAlign="Left" />
         <ItemTemplate>

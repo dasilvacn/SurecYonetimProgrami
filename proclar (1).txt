@@ -1,0 +1,58 @@
+
+
+
+Create proc [dbo].[SP_GorevList]
+
+as
+begin
+select p.adi,p.soyadi, g.gorevAdi,g.baslangýcTar,g.bitisTar, d.deptAdi, g.durum from  Görev g,Personel p, Departman d where  p.id=g.personelId and d.id=p.deptId
+end
+
+Create proc [dbo].[SP_TamamlanacakGorevler]
+as
+begin
+select p.adi,p.soyadi, g.gorevAdi,g.baslangýcTar,g.bitisTar, d.deptAdi from  Görev g,Personel p, Departman d where  p.id=g.personelId and d.id=p.deptId and g.durum='0'
+end
+
+CREATE proc [dbo].[SP_TamamlanmisGorevler]
+as
+begin
+select p.adi,p.soyadi, g.gorevAdi,g.baslangýcTar,g.bitisTar, d.deptAdi from  Görev g,Personel p, Departman d where  p.id=g.personelId and d.id=p.deptId and g.durum='1'
+end
+
+CREATE Proc [dbo].[SP_AdminGiris]
+@kuladi varchar(50),
+@sifre varchar(32)
+as
+begin
+select *from Admin where kuladi=@kuladi and @sifre=sifre
+end
+
+CREATE Proc [dbo].[SP_PersonelGiris]
+@kuladi varchar(50),
+@sifre varchar(32)
+as
+begin
+select *from Admin where kuladi=@kuladi and @sifre=sifre
+end
+
+Create proc SP_PersonelEkle
+@kuladi varchar(50),
+@sifre varchar(32),
+@mail varchar(50),
+@adi varchar(50),
+@soyadi varchar(50),
+@dept varchar(150),
+@tel varchar(50),
+@adres varchar(50)
+
+as
+begin
+insert into Personel (kuladi,sifre,mail, adi,soyadi,deptId,tel,adres)values(@kuladi,@sifre,@mail,@adi,@soyadi,(select id  from Departman where @dept=deptAdi), @tel,@adres)
+end
+
+create proc SP_Departman
+as
+begin
+select * from Departman 
+end

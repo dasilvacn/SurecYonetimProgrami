@@ -10,7 +10,7 @@
     <p style="font-size: x-large; font-family: Arial, Helvetica, sans-serif; "> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tamamlanacak İş Listesi</p>
     
     <p>
-        <asp:DataList ID="DataList2" runat="server">
+        <asp:DataList ID="DataList2" runat="server" OnSelectedIndexChanged="DataList2_SelectedIndexChanged">
         <EditItemStyle BackColor="#CCCCCC" />
         <ItemStyle BackColor="#EAEAFF" HorizontalAlign="Left" />
         <ItemTemplate>
@@ -22,7 +22,7 @@
             Tahmini Bitiş Tarihi: <strong><%#Eval("bitisTar")%></strong><br>
             <asp:Button ID="btnMsj" runat="server" Text="Mesaj Gönder" Width="130px" />
             <asp:Button ID="btnGrvAta" runat="server" Text="Yeni Görev Ata" Width="130px" />
-           
+           <asp:Button ID="bİptal" runat="server" Text="Görevi İptal Et" Width="130px" />
         </ItemTemplate>
         <SelectedItemStyle BackColor="#FFFFCC" BorderStyle="Groove" Font-Names="Algerian" />
         <SeparatorTemplate>

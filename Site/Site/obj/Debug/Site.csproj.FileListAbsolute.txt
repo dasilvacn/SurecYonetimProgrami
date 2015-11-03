@@ -88,33 +88,33 @@ C:\Users\user\Desktop\SüreçTakip_WebApp\Site\Site\Site\bin\DotNetOpenAuth.AspN
 C:\Users\user\Desktop\SüreçTakip_WebApp\Site\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\SüreçTakip_WebApp\Site\Site\Site\obj\Debug\Site.dll
 C:\Users\user\Desktop\SüreçTakip_WebApp\Site\Site\Site\obj\Debug\Site.pdb
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Site.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Site.pdb
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Antlr3.Runtime.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\AspNet.ScriptManager.jQuery.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.AspNet.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.Core.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\EntityFramework.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Microsoft.AspNet.Membership.OpenAuth.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Microsoft.ScriptManager.MSAjax.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Microsoft.ScriptManager.WebForms.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\System.Web.Optimization.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\System.Web.Providers.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\WebGrease.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\EntityFramework.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.Core.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\obj\Debug\Site.dll
-C:\Users\wissen\Desktop\Site (1)\Site\Site\Site\obj\Debug\Site.pdb
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Site.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Site.pdb
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Antlr3.Runtime.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.Core.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\EntityFramework.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\System.Web.Optimization.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\System.Web.Providers.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\WebGrease.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\EntityFramework.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.Core.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\obj\Debug\Site.dll
+C:\Users\wissen\Desktop\WissenWeb\Yeni klasör\Site (2)\Site\Site\Site\obj\Debug\Site.pdb

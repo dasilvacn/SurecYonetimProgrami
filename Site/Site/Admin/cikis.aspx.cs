@@ -15,7 +15,7 @@ namespace Site.Admin
             Session.Clear();
             Session.Abandon();
             // sayfa yönlendirmesi yapılıyor
-            Response.Redirect("Default.aspx",true);
+            Response.Redirect("~/Default.aspx", true);
         }
     }
 }

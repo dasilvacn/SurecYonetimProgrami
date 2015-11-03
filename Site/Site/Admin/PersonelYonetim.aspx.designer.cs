@@ -13,15 +13,6 @@ namespace Site.Admin {
     public partial class PersonelYonetim {
         
         /// <summary>
-        /// Panel1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel Panel1;
-        
-        /// <summary>
         /// txtKulAdi control.
         /// </summary>
         /// <remarks>
@@ -29,6 +20,15 @@ namespace Site.Admin {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtKulAdi;
+        
+        /// <summary>
+        /// txtSil control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtSil;
         
         /// <summary>
         /// txtSifre control.
@@ -67,13 +67,13 @@ namespace Site.Admin {
         protected global::System.Web.UI.WebControls.TextBox txtSoyadi;
         
         /// <summary>
-        /// txtDept control.
+        /// DropDownList1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDept;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
         
         /// <summary>
         /// txtTel control.

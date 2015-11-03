@@ -17,7 +17,7 @@
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
-    <title><%: Page.Title %> İş Takip Sistemi</title>
+    <title><%: Page.Title %> - Süreç Takip Sistemi</title>
     <asp:PlaceHolder runat="server">     
           <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>  
@@ -211,7 +211,7 @@
             <div id="cssmenu">
 <ul><li id="responsive-tab"><a href="#">Menu</a></li>
  
-   <li class="has-sub"><a href="AdminHome.aspx"><span>İş Listesi</span></a>
+   <li class="has-sub"><a href="Home.aspx"><span>İş Listesi</span></a>
       <ul>
          <li><a href="TamamlanmısIsler.aspx"><span>Tamamlanmış İşler</span></a></li>
          <li class="last"><a href="TamamlanacakIsler.aspx"><span>Tamamlanacak İşler</span></a></li>
@@ -231,7 +231,7 @@
       </ul>
    </li>
    <li><a href="#"><span>Profil Ayarları</span></a></li>
-   <li class="last"><a href="cikis.aspx"><span>Çıkış Yap</span></a></li>
+   <li class="last"><a href="Cikis.aspx"><span>Çıkış Yap</span></a></li>
 
     <div style="float: right; margin-top: -30px; padding: 5px; width: 250px; text-align: right;">Hoş Gelidiniz <%=adi %> <%=soyadi %></div>
 </ul>

@@ -199,6 +199,9 @@
     <Content Include="Images\orderedList7.png" />
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Content\jquery.autocomplete.css" />
+    <Content Include="Scripts\jquery.autocomplete.js" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Personel\Home.aspx" />
